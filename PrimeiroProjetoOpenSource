@@ -1,0 +1,39 @@
+Criando seu primeiro projeto Open Source: Um guia passo a passo.
+Tarefa: 
+Primeira contribuição em um projeto Open Source, especificamente no repositório digitalinnovationone/dio-lab-open-source.
+Passo a Passo:
+ * Fork do Repositório:
+   * Acesse o link do repositório: https://github.com/digitalinnovationone/dio-lab-open-source
+   * Clique no botão "Fork" no canto superior direito. Isso criará uma cópia do repositório no seu perfil do GitHub.
+ * Clone o Repositório Forkado:
+   * Copie o link do seu repositório forkado (agora está no seu perfil).
+   * Abra o seu terminal ou linha de comando.
+   * Utilize o comando git clone <link_do_seu_repositorio_forkado> para clonar o repositório para sua máquina local.
+ * Crie um Branch:
+   * Navegue até o diretório do projeto clonado em seu terminal.
+   * Crie um novo branch para suas alterações: git checkout -b meu-novo-feature (substitua "meu-novo-feature" pelo nome do seu branch).
+ * Faça suas Alterações:
+   * Abra os arquivos do projeto com seu editor de código e faça as modificações necessárias.
+   * Lembre-se: Consulte o arquivo CONTRIBUTING.md no repositório para entender as diretrizes de contribuição e o formato esperado para suas alterações.
+ * Commit das Alterações:
+   * Adicione os arquivos modificados ao staging: git add .
+   * Faça um commit com uma mensagem clara e concisa: git commit -m "Minha primeira contribuição: [descrição da sua alteração]"
+ * Envie as Alterações para o seu Fork:
+   * Envie suas alterações para o seu repositório forkado no GitHub: git push origin meu-novo-feature
+ * Crie um Pull Request:
+   * Acesse o seu repositório forkado no GitHub.
+   * Você verá uma notificação sobre o novo branch. Clique em "Compare & pull request".
+   * Escreva uma descrição clara e concisa sobre as suas alterações no Pull Request (PR).
+   * Clique em "Create pull request".
+ * Aguarde a Revisão:
+   * Os mantenedores do projeto original revisarão seu PR e poderão solicitar alterações ou aprovar sua contribuição.
+Dicas Extras:
+ * Leia a Documentação: Consulte a documentação do projeto e o arquivo CONTRIBUTING.md para entender as expectativas e como contribuir de forma eficaz.
+ * Participe das Discussões: Utilize a aba "Discussions" do repositório para tirar dúvidas e interagir com outros colaboradores.
+ * Seja Respeitoso: Mantenha um tom respeitoso em suas interações e siga as diretrizes da comunidade.
+Observações:
+ * Não é obrigatório que seu PR seja aceito para concluir o desafio. Basta enviar a URL do seu fork.
+ * Você pode encontrar mais informações sobre o desafio na aba "Discussions" do repositório.
+Recursos Adicionais:
+ * Slides: Disponíveis no repositório para te ajudar a entender o processo.
+ * Fórum do Repositório: Utilize o GitHub Discussions para tirar dúvidas.
